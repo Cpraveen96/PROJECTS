@@ -16,7 +16,13 @@ The proposed FitFlex Database System is designed to streamline data management, 
 By leveraging its data assets, FitFlex will empower informed decision-making across departments, ultimately driving optimized business operations and sustainable growth.
 
 
-# 🍽️ Project 3: Food Delivery Dashboard
+# 📊 Project 3: Netflix User Data Analysis
+This project explores user engagement and content consumption patterns on Netflix using a synthetic open-source dataset from Kaggle. With Netflix's global reach and a diverse library serving 283 million users in over 190 countries, the analysis aims to uncover viewer preferences and demographic trends.
+
+The dataset simulates real-world user data, making it ideal for generating insights into strategic content planning and user behavior through interactive visualizations.This project analyzes a synthetic Netflix user dataset to uncover content preferences and viewing trends across demographics. The insights support strategic decisions in content planning and user engagement.
+
+
+# 🍽️ Project 4: Food Delivery Dashboard
 
 The Food Delivery Dashboard is an interactive analytics solution developed to provide actionable insights for food delivery businesses. It is designed to help stakeholders monitor key operational metrics, optimize performance, and enhance strategic decision-making.
 
@@ -30,3 +36,4 @@ The Food Delivery Dashboard is an interactive analytics solution developed to pr
 -> Enhance Driver Efficiency: Monitor driver activity and performance, enabling better workforce planning and service quality improvements.
 
 This dashboard supports real-time insights and long-term trend analysis, empowering food delivery businesses to make informed, data-driven decisions that boost customer satisfaction and operational effectiveness.
+
