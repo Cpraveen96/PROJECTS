@@ -7,6 +7,8 @@ Sofa-so-good Cloud Architecture is a modern, cloud-based data architecture initi
 This architecture fosters a unified and reliable data foundation that delivers both real-time insights and long-term analytical capabilities. The ultimate goal is to cultivate a culture of data-driven innovation, positioning businesses to unlock the full strategic value of their data assets.
 
 
+
+
 # 📄 Project 2: FITFLEX Database Systems
 
 FitFlex is an e-commerce platform focused on fitness-related products, including gym equipment, activewear, supplements, and accessories. To support its mission of delivering a seamless and personalized shopping experience, FitFlex is developing a robust, data-driven database system.
@@ -16,10 +18,14 @@ The proposed FitFlex Database System is designed to streamline data management, 
 By leveraging its data assets, FitFlex will empower informed decision-making across departments, ultimately driving optimized business operations and sustainable growth.
 
 
+
+
 # 📊 Project 3: Netflix User Data Analysis
 This project explores user engagement and content consumption patterns on Netflix using a synthetic open-source dataset from Kaggle. With Netflix's global reach and a diverse library serving 283 million users in over 190 countries, the analysis aims to uncover viewer preferences and demographic trends.
 
 The dataset simulates real-world user data, making it ideal for generating insights into strategic content planning and user behavior through interactive visualizations.This project analyzes a synthetic Netflix user dataset to uncover content preferences and viewing trends across demographics. The insights support strategic decisions in content planning and user engagement.
+
+
 
 
 # 🍽️ Project 4: Food Delivery Dashboard
@@ -36,4 +42,20 @@ The Food Delivery Dashboard is an interactive analytics solution developed to pr
 -> Enhance Driver Efficiency: Monitor driver activity and performance, enabling better workforce planning and service quality improvements.
 
 This dashboard supports real-time insights and long-term trend analysis, empowering food delivery businesses to make informed, data-driven decisions that boost customer satisfaction and operational effectiveness.
+
+
+
+# 🍁 Project 5: Canada Immigration Dashboard (2015–2024)
+
+An interactive dashboard analyzing Canadian immigration trends from 2015 to 2025. It covers immigration volumes, program categories, demographic breakdowns, and top source countries. Built to support data-driven policy and research using Power BI and Python.
+
+🔍 Features
+Yearly immigration trends and YoY changes
+
+Program-wise immigrant distribution (e.g., Skilled Worker, PNP)
+
+Gender and age group analysis
+
+Top countries of citizenship
+
 
