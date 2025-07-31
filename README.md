@@ -1,6 +1,6 @@
 # PROJECTS
 
-# 📌 Project 1: Sofa-So-Good Cloud Architecture
+## 📌 Project 1: Sofa-So-Good Cloud Architecture
 
 Sofa-so-good Cloud Architecture is a modern, cloud-based data architecture initiative designed to empower organizations with a scalable, secure, and agile data ecosystem. The architecture enables centralized data integration, streamlined processing, and advanced analytics capabilities. By leveraging cloud-native technologies, this solution ensures flexibility to adapt to evolving business needs, enhances operational efficiency, and supports data-informed decision-making across departments.
 
@@ -9,7 +9,7 @@ This architecture fosters a unified and reliable data foundation that delivers b
 
 
 
-# 📄 Project 2: FITFLEX Database Systems
+## 📄 Project 2: FITFLEX Database Systems
 
 FitFlex is an e-commerce platform focused on fitness-related products, including gym equipment, activewear, supplements, and accessories. To support its mission of delivering a seamless and personalized shopping experience, FitFlex is developing a robust, data-driven database system.
 
@@ -20,7 +20,7 @@ By leveraging its data assets, FitFlex will empower informed decision-making acr
 
 
 
-# 📊 Project 3: Netflix User Data Analysis
+## 📊 Project 3: Netflix User Data Analysis
 This project explores user engagement and content consumption patterns on Netflix using a synthetic open-source dataset from Kaggle. With Netflix's global reach and a diverse library serving 283 million users in over 190 countries, the analysis aims to uncover viewer preferences and demographic trends.
 
 The dataset simulates real-world user data, making it ideal for generating insights into strategic content planning and user behavior through interactive visualizations.This project analyzes a synthetic Netflix user dataset to uncover content preferences and viewing trends across demographics. The insights support strategic decisions in content planning and user engagement.
@@ -28,7 +28,7 @@ The dataset simulates real-world user data, making it ideal for generating insig
 
 
 
-# 🍽️ Project 4: Food Delivery Dashboard
+## 🍽️ Project 4: Food Delivery Dashboard
 
 The Food Delivery Dashboard is an interactive analytics solution developed to provide actionable insights for food delivery businesses. It is designed to help stakeholders monitor key operational metrics, optimize performance, and enhance strategic decision-making.
 
@@ -45,7 +45,7 @@ This dashboard supports real-time insights and long-term trend analysis, empower
 
 
 
-# 🍁 Project 5: Canada Immigration Dashboard (2015–2024)
+## 🍁 Project 5: Canada Immigration Dashboard (2015–2024)
 
 An interactive dashboard analyzing Canadian immigration trends from 2015 to 2025. It covers immigration volumes, program categories, demographic breakdowns, and top source countries. Built to support data-driven policy and research using Power BI and Python.
 
